@@ -1,5 +1,6 @@
 # ATWS
-DDoS Tool - Attack Webste
+DDoS Tool - Attack Website
+Version 1.0
 # Install Command
 ```
 git clone https://github.com/AxeyedTran/ATWS
