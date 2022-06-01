@@ -45,7 +45,7 @@ ssp             |       HTTP Spoof Socket Attack (Proxy)
 sa              |       Socket Attack
 sap             |       Socket Attack (Proxy)
 rqap            |       Request Attack (Proxy)
-dns.            |       DNS Checker
+dns             |       DNS Checker
 =============== | ======================================
 help            |       Show Command List
 exit            |       Exit Program
